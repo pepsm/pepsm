@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋🏻 I'm Petar
+I'm a software student, currently doing ML specialization. I love solving problems and working on any web-related project.
 
 <!--
 **pepsm/pepsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
