@@ -2,7 +2,8 @@
 
 ### Hi there! 👋🏻 I'm Petar
 
-A Software student, currently doing Machine Learning specialization. I love solving problems and working on any web-related project.
+A Software student, currently doing Machine Learning specialization. </br>
+I love solving problems and working on any web-related project.
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pepsm&show_icons=true&icon_color=343434&text_color=343434&title_color=110000" alt="pepsm" />
