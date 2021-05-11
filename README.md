@@ -9,5 +9,6 @@ I love solving problems and working on any web-related project.
   <img src="https://github-readme-stats.vercel.app/api?username=pepsm&show_icons=true&icon_color=343434&text_color=343434&title_color=110000" alt="pepsm" />
 </p>
 -->
-
+<--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepsm&layout=compact&langs_count=8)
+-->
